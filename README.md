@@ -1,4 +1,9 @@
-测试
+# 为测试自动化部署克隆项目
+
+## 如有需要请看原文档
+**Live demo:** http://panjiachen.github.io/vue-admin-template
+
+
 # vue-admin-template
 
 English | [简体中文](./README-zh.md)
